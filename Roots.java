@@ -20,7 +20,8 @@ public class Roots {
             double real = -b / (2 * a);
             double img = deter_root / (2 * a);
             System.out.println("Root 1=" + real+"+"+img+"i");
-            System.out.println("Root 1=" + real+"-"+img+"i");
+            System.out.println("Root 2=" + real+"-"+img+"i");
+                               
 }
          sc.close();
     }
